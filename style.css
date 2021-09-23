@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+    text-align: center;  
+}
+.image{
+    width:35%;
+}
+.list{
+    list-style-position: inside;  
+}
+.list-1{
+    list-style-position: inside;
+    margin-right: 10px;
+}
+.list-2{
+    list-style-position: inside;
+    margin-right: 38px;
+}

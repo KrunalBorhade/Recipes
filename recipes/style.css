@@ -1,0 +1,23 @@
+body{
+    background-color: pink;
+    text-align: center;
+}
+.instruction{
+    list-style-position: inside;
+    margin-right: 25%;
+    margin-left: 25%;
+    text-align:justify;
+}
+
+.ingredients{
+    list-style-position: inside;
+    margin-right: 25%;
+    margin-left: 37%;
+    text-align:justify;
+}
+.description{
+    margin-right: 26%;
+    margin-left: 26%;
+    text-align:center;
+}
+
